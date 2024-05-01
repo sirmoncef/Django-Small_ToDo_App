@@ -1,2 +1,2 @@
-# Djnago-Small_ToDo_App
-Small-To-Do-App With Django 
+# Djnago_ToDo_App
+To-Do-App 
